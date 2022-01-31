@@ -7,7 +7,7 @@ Descripción del Dataset
 Fuente: kaggle.com
 https://www.kaggle.com/imakash3011/customer-personality-analysis
 
-- El Análisis de Personalidad del Cliente es un estudio detallado sobre los clientes ideales de 
+El Análisis de Personalidad del Cliente es un estudio detallado sobre los clientes ideales de 
 una compañía. Ayuda a que el negocio los entienda mejor y hace más fácil modificar productos 
 conforme  a  necesidades  específicas,  comportamientos  e  intereses  de  diferentes  tipos  de 
 consumidores.
